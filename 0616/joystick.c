@@ -35,7 +35,7 @@ int main()
 }
 
 
-//struct input_event{
+//kstruct input_event{
 //	struct timeval time;
 //	__u16 type;
 //	__u16 code;
